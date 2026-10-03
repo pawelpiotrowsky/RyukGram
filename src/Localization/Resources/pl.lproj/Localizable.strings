@@ -217,14 +217,14 @@
 // Settings → Date format tab                                               //
 //////////////////////////////////////////////////////////////////////////////
 
-"%ld day ago" = "%ld dzień temu";
+"%ld day ago" = "%ld Wczoraj";
 "%ld days ago" = "%ld dni temu";
 "%ld hour ago" = "%ld godzinę temu";
-"%ld hours ago" = "%ld godzin temu";
+"%ld hours ago" = "%ld godziny temu";
 "%ld minute ago" = "%ld minutę temu";
-"%ld minutes ago" = "%ld minut temu";
+"%ld minutes ago" = "%ld minuty temu";
 "%ld week ago" = "%ld tydzień temu";
-"%ld weeks ago" = "%ld tygodni temu";
+"%ld weeks ago" = "%ld tygodnie temu";
 "%ldd" = "%ld d";
 "%ldh" = "%ld godz.";
 "%ldm" = "%ld min";
@@ -278,7 +278,7 @@
 "Grid feed" = "Tablica w siatce";
 "Browse your home feed as a grid of posts" = "Przeglądaj główną tablicę jako siatkę postów";
 "Hide stories in grid" = "Ukryj relacje w siatce";
-"Taller cells" = "Wyższe komórki";
+"Taller cells" = "Wyższe kafelki";
 "Portrait tiles instead of squares" = "Kafelki pionowe zamiast kwadratów";
 "Open post" = "Otwórz post";
 "View profile" = "Wyświetl profil";
@@ -491,12 +491,12 @@
 "Minutes before a limit" = "Liczba minut przed limitem";
 "Reels before a limit" = "Liczba rolek przed limitem";
 "Every: nudges you after watching nonstop, leaving reels for 3 minutes resets it. Before a limit: warns once as a limit of the same kind gets close." = "Co: przypomina Ci po nieprzerwanym oglądaniu, opuszczenie rolki na 3 minuty resetuje licznik. Przed limitem: ostrzega raz, gdy limit tego samego rodzaju zbliża się.";
-"Almost at your limit" = "Prawie osiągnąłeś limit";
+"Almost at your limit" = "Zbliżasz się do limitu";
 "Every" = "Każdy";
 "When %@" = "Kiedy %@";
 "%@ above your daily average" = "%@ powyżej Twojej średniej dziennej";
 "%@ below your daily average" = "%@ poniżej Twojej średniej dziennej";
-"%ld reels · %ld%% of the day" = "%ld rolek · %ld%% dnia";
+"%ld reels · %ld%% of the day" = "%ld rolki · %ld%% dnia";
 "By place" = "Według miejsca";
 "No reels watched" = "Nie obejrzano żadnych rolek";
 "Not enough days to compare yet" = "Za mało dni do porównania";
@@ -653,8 +653,8 @@
 "Deprecated. The RyukGram action button (configured per feature in Feed/Reels/Stories) is the new way to download media. Enable this master toggle only if you prefer the old multi-finger long-press directly on the media." = "Przestarzałe. Przycisk akcji RyukGram (konfigurowany dla każdej funkcji w Aktualnościach/Rolkach/Relacjach) to nowy sposób pobierania mediów. Włącz ten główny przełącznik tylko wtedy, gdy wolisz dawne długie przytrzymanie wieloma palcami bezpośrednio na mediach.";
 "Don't pause downloads, encoding, or profile scans when you leave the app" = "Nie wstrzymuj pobierania, kodowania ani skanowania profili po opuszczeniu aplikacji";
 "Download queue" = "Kolejka pobierania";
-"Downloads" = "Pobierania";
-"Downloads with %@ %@" = "Pobierania z %@ %@";
+"Downloads" = "Pobrania";
+"Downloads with %@ %@" = "Pobrania z %@ %@";
 "Enable long-press gesture" = "Włącz gest długiego przytrzymania";
 "Finger count for long-press" = "Liczba palców dla długiego przytrzymania";
 "How many downloads run at once — extras wait in line and start as slots free up. Failed downloads retry automatically on network errors. Open the manager to watch, cancel, or retry downloads." = "Liczba jednocześnie wykonywanych pobrań – dodatkowe zadania czekać będą w kolejce i rozpoczną się, gdy zwolnią się sloty. Nieudane pobierania są automatycznie ponawiane przy błędach sieci. Otwórz menedżer, aby monitorować, anulować lub ponawiać pobierania.";
@@ -664,7 +664,7 @@
 "Master toggle for the deprecated gesture workflow (off by default)" = "Główny przełącznik dla przestarzałego przepływu gestów (domyślnie wyłączony)";
 "Max simultaneous downloads" = "Maks. liczba jednocześnie pobieranych plików";
 "Open download manager" = "Otwórz menedżer pobierania";
-"Press finger(s) for %@ %@" = "Naciśnij palec/palce przez %@ %@";
+"Press finger(s) for %@ %@" = "Przytrzymaj przez %@ %@";
 "Retry automatically when a download drops on a network error" = "Ponów automatycznie w przypadku błędu sieci";
 "Route saves into a custom album in Photos instead of the camera roll root" = "Kieruj zapisane pliki do niestandardowego albumu w Zdjęciach zamiast głównego folderu aparatu";
 "Run up to %@ %@ at once" = "Uruchom do %@ %@ naraz";
