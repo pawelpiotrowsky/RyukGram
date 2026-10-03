@@ -1037,7 +1037,7 @@
 "Send audio as file" = "Wyślij audio jako plik";
 "Send files (experimental)" = "Wyślij pliki (eksperymentalne)";
 "File sending not available" = "Wysyłanie plików niedostępne";
-"Show full date instead of "Active 2h ago"" = "Pokaż pełną datę zamiast „Aktywny(-a) 2 godz. temu”";
+"Show full date instead of \"Active 2h ago\"" = "Pokaż pełną datę zamiast „Aktywny(-a) 2 godz. temu”";
 "Shows a button in DM threads to add/remove chats from the list. Long-press for more options" = "Wyświetla przycisk w wątkach DM umożliwiający dodawanie/usuwanie czatów z listy. Przytrzymaj, aby uzyskać więcej opcji";
 "Shows a notification pill when a message is unsent" = "Pokazuje dymek powiadomienia, gdy wiadomość zostanie cofnięta";
 "Block view receipts" = "Blokuj potwierdzenia wyświetlenia";
@@ -1169,7 +1169,7 @@
 
 "Send image as drawing" = "Wyślij obraz jako rysunek";
 
-"Bypass "You can't send messages"" = "Obejście komunikatu „Nie możesz wysyłać wiadomości”";
+"Bypass \"You can't send messages\"" = "Obejście komunikatu „Nie możesz wysyłać wiadomości”";
 "Custom chat background" = "Niestandardowe tło czatu";
 "DM Save button" = "Przycisk zapisu w DM";
 "Incoming calls stay silent — no ring, no screen, no notification" = "Połączenia przychodzące pozostają ciche — brak dzwonka, ekranu i powiadomienia";
@@ -1471,7 +1471,7 @@
 "Set passcode" = "Ustaw kod dostępu";
 "Short idle window" = "Krótki czas bezczynności";
 "Stay unlocked until app close or background" = "Pozostaw odblokowane do czasu zamknięcia aplikacji lub przejścia w tło";
-"Suppress IG's "X took a screenshot" notification across stories, DMs and disappearing media" = "Blokuj powiadomienia Instagrama „Użytkownik X zrobił zrzut ekranu” w relacjach, wiadomościach DM i znikających mediach";
+"Suppress IG's \"X took a screenshot\" notification across stories, DMs and disappearing media" = "Blokuj powiadomienia Instagrama „Użytkownik X zrobił zrzut ekranu” w relacjach, wiadomościach DM i znikających mediach";
 "Tap Unlock" = "Stuknij Odblokuj";
 "Tap Unlock or enter your passcode" = "Stuknij Odblokuj lub wprowadź kod dostępu";
 "This clears the passcode, disables every lock target, and unlocks all chats. Gallery and Keep-Deleted data are untouched." = "To usunie kod dostępu, wyłączy wszystkie cele blokad i odblokuje wszystkie czaty. Dane Galerii oraz zachowanych wiadomości pozostaną nienaruszone.";
