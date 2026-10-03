@@ -197,7 +197,7 @@
 "Sponsored reels in the sundial feed" = "Sponsorowane rolki w sekcji rolek";
 "Start" = "Początek";
 "Story ads and sponsored entries in the story tray" = "Reklamy w relacjach i sponsorowane wpisy na pasku relacji";
-"Stat pills on the posts and reels in search and explore. Open Card details to pick which stats show, reorder them, then apply." = "Pigułki statystyk na postach i rolkach w wyszukiwarki i Eksploruj. Otwórz szczegóły karty, aby wybrać, które statystyki mają się wyświetlać, zmienić ich kolejność, a następnie je zastosować.";
+"Stat pills on the posts and reels in search and explore. Open Card details to pick which stats show, reorder them, then apply." = "Znaczniki statystyk na postach i rolkach w wyszukiwarce i Eksploruj;„plakietki statystyk”. Otwórz szczegóły karty, aby wybrać, które statystyki mają się wyświetlać, zmienić ich kolejność, a następnie je zastosować.";
 "Strip tracking from links" = "Usuń śledzenie z linków";
 "Strip tracking params" = "Usuń parametry śledzące";
 "Known trackers" = "Znane trackery";
@@ -376,7 +376,7 @@
 "Stories tray" = "Pasek relacji";
 "Tapping Home does nothing when already on feed" = "Stuknięcie w Stronę główną nic nie robi, jeśli już się na niej znajdujesz";
 "Tray long-press actions" = "Akcje przytrzymania na pasku relacji";
-"Composer doesn't accept GIFs" = "Edytor nie akceptuje pliki GIF";
+"Composer doesn't accept GIFs" = "Edytor nie akceptuje plików GIF";
 "Copy GIF link" = "Kopiuj link GIF";
 "Copy image link" = "Kopiuj link do obrazu";
 "Custom GIF in comments" = "Własny GIF w komentarzach";
@@ -835,7 +835,7 @@
 "Peek at poll/quiz/slider results on reels before interacting — you can still tap to vote normally." = "Podglądaj wyniki ankiet/quizów/suwaków w rolkach przed wejściem w interakcję – nadal możesz normalnie oddać głos.";
 "Force legacy stickers in tray" = "Wymuś klasyczne naklejki w panelu";
 "Adds Quiz and Reveal stickers back to the picker" = "Przywraca naklejki quizu i ujawnienia do selektora";
-"Bypass Reveal sticker" = "Oomiń naklejkę ujawnienia";
+"Bypass Reveal sticker" = "Omiń naklejkę ujawnienia";
 "Skip the DM-to-reveal step on stories with a Reveal sticker" = "Pomiń krok przejścia do wiadomości DM w celu odkrycia zawartości relacji z naklejką ujawnienia";
 "Show quiz answer" = "Pokaż odpowiedź quizu";
 "Circle the correct option on quiz stickers, or the leading option on polls" = "Zaznacz kółkiem poprawną opcję na naklejkach quizu lub prowadzącą opcję w ankietach";
@@ -910,7 +910,7 @@
 "Log only records silently. Notify only pings you without keeping it. Notify + log does both." = "Tylko rejestruj zapisuje cicho. Tylko powiadamiaj wysyła sygnał bez zachowywania śladu. Powiadamiaj + rejestruj robi jedno i drugie.";
 "Presence" = "Obecność";
 "Read your message" = "Odczytanie wiadomości";
-"Refresh presence every 20s and drop Instagram's grace period, so the native green dot turns off the moment someone goes offline." = "Odświeżaj obecność co 20s i usuń okres karencji Instagrama, aby natywna zielona kropka gaśnięciu momentalnie, gdy ktoś przejdzie w tryb offline.";
+"Refresh presence every 20s and drop Instagram's grace period, so the native green dot turns off the moment someone goes offline." = "Odświeżaj obecność co 20s i usuń okres karencji Instagrama, aby zielona kropka gasła natychmiast, gdy ktoś przejdzie w tryb offline.";
 "Started typing" = "Rozpoczęcie pisania";
 "Tap to change what they notify. Swipe to remove and fall back to the defaults." = "Stuknij, aby zmienić powiadomienia dla tej osoby. Przesuń, aby usunąć i przywrócić domyślne.";
 "These override the defaults for this person." = "Te ustawienia zastępują domyślne dla tej osoby.";
@@ -1004,7 +1004,7 @@
 "Enables the notes theme picker" = "Włącza selektor motywów notatek";
 "Files" = "Pliki";
 "Full last active date" = "Pełna data ostatniej aktywności";
-"Hide reels blend button" = "Ukryj przycisk miksowania ról (Reels Blend)";
+"Hide reels blend button" = "Ukryj przycisk miksowania rólek (Reels Blend)";
 "Hide reels in chats" = "Ukryj Rolki (Reels) na czatach";
 "Shared reels stop showing up in DM threads" = "Udostępnione rolki przestają pojawiać się w wątkach DM";
 "Hide send to group chat" = "Ukryj wysyłanie do czatu grupowego";
@@ -1027,7 +1027,7 @@
 "Note actions" = "Akcje notatek";
 "Preserves messages that others unsend" = "Zachowuje wiadomości, które inni cofają";
 "Keep my deleted messages" = "Zachowaj moje usunięte wiadomości";
-"Also preserves messages you unsend yourself" = "Zachowuje również wiadomości, które sam coś wyślesz/cofniesz";
+"Also preserves messages you unsend yourself" = "Zachowuje również wiadomości, które sam cofniesz";
 "Prevents accidental swipe-up activation of vanish mode" = "Zapobiega przypadkowemu włączeniu trybu znikania gestem przesunięcia w górę";
 "Quick list button in chats" = "Przycisk szybkiej listy na czatach";
 "Removes the audio call button from DM thread header" = "Usuwa przycisk połączenia głosowego z nagłówka wątku DM";
