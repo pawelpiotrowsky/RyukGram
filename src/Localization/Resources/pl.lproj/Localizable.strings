@@ -1,5 +1,5 @@
 /*
- *  RyukGram — Localizable.strings  (English source of truth)
+ *  RyukGram — Localizable.strings  (Polish translation)
  *  -------------------------------------------------------------------------
  *
  *  Every user-facing string in RyukGram goes through the macro
@@ -295,7 +295,7 @@
 "Relative" = "Względny";
 "Date and time" = "Data i godzina";
 "You're all caught up" = "Wszystko jest przeczytane";
-"Replaces the home feed with a grid of posts. Switching to Instagram's own feed keeps the feature on and hands the feed straight back. Pinch to change columns, tap a post to open it. The For You / Following switch stays in sync with Main feed." = "Zastępuje główną tablicę siatką postów. Przełączenie na rodzimą tablicę Instagrama utrzymuje funkcję włączoną i pozwala łatwo do niej wrócić. Zmień liczbę kolumn gestem szczypnięcia, stuknij w post, aby go otworzyć.\nPrzełącznik „Dla Ciebie / Obserwowani” pozostaje zsynchronizowany z główną tablicą.";
+"Replaces the home feed with a grid of posts. Switching to Instagram's own feed keeps the feature on and hands the feed straight back. Pinch to change columns, tap a post to open it. The For You / Following switch stays in sync with Main feed." = "Zastępuje główną tablicę siatką postów. Przełączenie na rodzimą tablicę Instagrama utrzymuje funkcję włączoną i pozwala łatwo do niej wrócić. Zmień liczbę kolumn gestem szczypnięcia, stuknij w post, aby go otworzyć.Przełącznik „Dla Ciebie / Obserwowani” pozostaje zsynchronizowany z główną tablicą.";
 "Switch button" = "Przycisk przełączania";
 "Hold the heart button" = "Przytrzymaj przycisk serduszka";
 "Floating button" = "Pływający przycisk";
